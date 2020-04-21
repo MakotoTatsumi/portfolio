@@ -10,7 +10,14 @@
     "@babel/polyfill": "^7.8.7",
     "@babel/preset-env": "^7.9.5",
     "babel-loader": "^8.1.0",
+    "css-loader": "^3.5.2",
     "html-webpack-plugin": "^4.2.0",
+    "markdown-to-vue-loader": "^2.0.0",
+    "marked": "^1.0.0",
+    "node-sass": "^4.13.1",
+    "processmd": "^4.5.0",
+    "sass-loader": "^8.0.2",
+    "style-loader": "^1.1.4",
     "vue-loader": "^15.9.1",
     "vue-template-compiler": "^2.6.11",
     "webpack": "^4.42.1",
@@ -19,5 +26,9 @@
   },
   "dependencies": {
     "vue": "^2.6.11"
+  },
+  "scripts": {
+    "dev": "npx webpack-dev-server",
+    "build": "npx webpack"
   }
 }
