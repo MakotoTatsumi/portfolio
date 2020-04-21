@@ -2,9 +2,9 @@
   <div class="markdown">
     <div class="sideBar">
       <div class="sideBar__title">makofolio</div>
-      <div class="sideBar__sns">Twitter:<a href="">@makoto</a></div>
-      <div class="sideBar__sns">GitHub:<a href="">@makoto</a></div>
-      <div class="sideBar__sns">Qita:<a href="">@makoto</a></div>
+      <div class="sideBar__sns">Twitter:<a href="https://twitter.com/makoto_tatsumi">@makoto</a></div>
+      <div class="sideBar__sns">GitHub:<a href="https://github.com/MakotoTatsumi">@makoto</a></div>
+      <div class="sideBar__sns">Qita:<a href="https://qiita.com/makoto1219">@makoto</a></div>
     </div>
     <div class="contents">
       <div v-html="compiledMarkdownText" />
