@@ -6,29 +6,29 @@
   "author": "辰己 誠 <m_tatsumi@waku-2.com>",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.9.0",
-    "@babel/polyfill": "^7.8.7",
-    "@babel/preset-env": "^7.9.5",
-    "babel-loader": "^8.1.0",
-    "css-loader": "^3.5.2",
-    "html-webpack-plugin": "^4.2.0",
-    "markdown-to-vue-loader": "^2.0.0",
-    "marked": "^1.0.0",
-    "node-sass": "^4.13.1",
-    "processmd": "^4.5.0",
-    "sass-loader": "^8.0.2",
-    "style-loader": "^1.1.4",
-    "vue-loader": "^15.9.1",
-    "vue-template-compiler": "^2.6.11",
-    "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.11",
-    "webpack-dev-server": "^3.10.3"
+    "@babel/core": "^7.14.6",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.14.5",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^5.2.6",
+    "html-webpack-plugin": "^5.3.1",
+    "markdown-to-vue-loader": "^3.1.0",
+    "marked": "^2.1.1",
+    "node-sass": "^6.0.0",
+    "processmd": "^4.6.1",
+    "sass-loader": "^12.1.0",
+    "style-loader": "^2.0.0",
+    "vue-loader": "^15.9.7",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^5.39.1",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
-    "vue": "^2.6.11"
+    "vue": "^2.6.14"
   },
   "scripts": {
-    "dev": "npx webpack-dev-server",
+    "dev": "webpack-cli serve --mode development",
     "build": "npx webpack"
   }
 }

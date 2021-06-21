@@ -1,62 +1,82 @@
 ## 個人データ
-
 - 辰己誠（Tatsumi Makoto）
+- 1990/12/19 (満30歳)  
 - フロントエンドエンジニア
 
-## 職歴（概要）
-
-- 2015 年 4 月 ~ 2018 年 3 月 農業に従事（内半年間、プログラミング留学）
-- 2018 年 4 月 ~ 現在　フロントエンドエンジニア（現職）
-
 ## 学歴
-
 - 2010 年 4 月 ~ 2015 年 3 月 神戸大学農学部 生命機能化学科
 
+## 職歴（概要）
+- 2015 年 4 月 ~ 2018 年 3 月 農業に従事（内半年間、プログラミング留学）
+- 2018 年 4 月 ~ 現在　フロントエンドエンジニア（現職）
+  - Webアプリケーションのフロントエンド開発4年目
+    
 ## スキル
-
-### HTML, CSS
-
+### HTML, CSS (4年目)
 - Pug, SCSS を利用したコンポーネントを意識した設計構築
-- MindBEMding に則った、命名
+- BEMに則った、命名
 - セマンティクスを意識した記述
 
-### Javascript
-
+### Javascript(4年目)
 - ES6
-- jQuery 半年
-- Vue1 年と少し, Vuex を利用
-- typescript, React は個人開発程度
+- jQuery(実務による開発1年)
+- Vue2系, Vuex（実務による開発1年半）
+- React, Redux, Next.js（実務による開発1年）
+- Typescript(実務による開発1年半)
+- Next.jsとExpressを利用したBackendForFrontend部分の開発
+- Storybookを利用した開発
+- useSWRを利用した開発(3ヶ月)
+- Webpack周り(実務による利用2年)
+
+### コミュニケーションツール
+- Slack
+- chatwork
+- Teams
 
 ### others
-
 - Git
-- タスク管理ツール（Trello, backlog, redmine）
-- phothoshop, illustrator, XD, Zeplin
+- Docker
+- ドキュメント管理（Confluence）  
+- タスク管理ツール（Trello, backlog, redmine, JIRA, Notion）
+- デザインツール（photoshop, illustrator, XD, Zeplin, Figma)
 
-## 職歴（現職）
 
-### 株式会社ビットエー（2018/04 ~ 現在）
+## 株式会社ビットエー（2018/04 ~ 現在）
+### 某新卒採用サイトの開発運用（2018/04 ~ 2018/09）
+- 新卒サイトでの開発運用(2018/04 ~ 2018/09)
+  - HTML, CSS, SCSS, JavaScript, jQuery, pug, Git, webpack
 
-#### 受託開発案件
-
+### 受託開発案件（2018/10 ~ 2019/02）
 - ブログサイトのフルリニューアル案件
-  - HTML, CSS, SCSS, JavaScript, jQuery, wordpress, Git, webpack
-- 10 数ページ規模のサービスサイト HP 制作
+  - HTML, CSS, SCSS, JavaScript, jQuery, Wordpress, Git, webpack
+
+- 10数ページ規模のサービスサイト HP 制作
   - HTML, CSS, SCSS, JavaScript, jQuery, pug, Git, webpack
-
-#### 常駐開発案件
-
-- 新卒サイトでの開発運用
-
-  - HTML, CSS, SCSS, JavaScript, jQuery, pug, Git, webpack
-
-- 中途転職サイトの開発運用
+    
+### 中途転職サイトの開発運用(2019/03~2020/11)
   - フロントエンド開発
+    - 新規画面開発、ABテスト、ログ計測
     - HTML, SCSS, JavaScript, Vue, Vuex ,Git, webpack
-  - AB テスト用ツール  用 JS 作成
-    - typescript, scss, wehpack
+  - ABテストツール、AdobeTargetを用いた開発
+    - typescript, scss, webpack
 
-#### 新規事業開発
+### 新規事業開発(2020/08~現在)
+- 自社プロダクトのFE開発
+  - 前半(2020/08~2020/10)はチームメンバーとして、後半(2020/11~現在)は開発リーダーとして参画
+  - 後半はVNの会社に開発協力を仰いだため、画面開発と共に、VNチームのレビュー、開発方針相談など
+  - 開発に関しては画面実装、BFF、Redux周りの実装メンテナンス
+  - React, Redux, Typescript, Next.js, Express, Storybook, erb
 
-- 自社プロダクト開発の FE
-  - React, Typescript, Next.js, storybook, webpack, BFF
+### 受託開発(2020/04~現在)
+- 新規WebアプリケーションのFE開発
+  - FEが一人のため、初期構築から実装方針など含め担当
+  - 自社プロダクト開発と並行して担当  
+  - Next.js, Typescript, Storybook
+
+
+## 副業（2020/08~不定期）
+- 結婚式招待状サービスの開発
+  - 招待状フォームの作成
+  - 席次表の作成
+  - 招待状テンプレートの作成
+  - React, Git
