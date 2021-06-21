@@ -41,6 +41,11 @@
 - デザインツール（photoshop, illustrator, XD, Zeplin, Figma)
 
 
+## 最近のLT資料
+[useSWRを使ったData Fetch](https://www.notion.so/makotoworkspace/useSWR-Data-Fetch-04897f85429844609e98eda34bc0d28f)
+
+[チームで上げるレビューパフォーマンス(FE目線)](https://www.notion.so/makotoworkspace/FE-70c0359f43984c7dbd623986de288b64) 
+
 ## 株式会社ビットエー（2018/04 ~ 現在）
 ### 某新卒採用サイトの開発運用（2018/04 ~ 2018/09）
 - 新卒サイトでの開発運用(2018/04 ~ 2018/09)
