@@ -1,6 +1,6 @@
 ## 個人データ
 - 辰己誠（Tatsumi Makoto）
-- 1990/12/19 (満30歳)  
+- 1990/12/19 
 - フロントエンドエンジニア
 
 ## 学歴
@@ -12,20 +12,14 @@
   - Webアプリケーションのフロントエンド開発4年目
     
 ## スキル
-### HTML, CSS (4年目)
 - Pug, SCSS を利用したコンポーネントを意識した設計構築
 - BEMに則った、命名
 - セマンティクスを意識した記述
-
-### Javascript(4年目)
-- ES6
-- jQuery(実務による開発1年)
-- Vue2系, Vuex（実務による開発1年半）
-- React, Redux, Next.js（実務による開発1年）
-- Typescript(実務による開発1年半)
+- Vue2系, Vuex（実務1年半）
+- React, Redux, Next.js
 - Next.jsとExpressを利用したBackendForFrontend部分の開発
 - Storybookを利用した開発
-- useSWRを利用した開発(3ヶ月)
+- useSWRを利用した開発
 - Webpack周り(実務による利用2年)
 
 ### コミュニケーションツール
@@ -63,22 +57,28 @@
     - 新規画面開発、ABテスト、ログ計測
     - HTML, SCSS, JavaScript, Vue, Vuex ,Git, webpack
   - ABテストツール、AdobeTargetを用いた開発
-    - typescript, scss, webpack
+    - TypeScript, scss, webpack
 
-### 新規事業開発(2020/08~現在)
+### 新規事業開発(2020/08~2022/07)
 - 自社プロダクトのFE開発
   - 前半(2020/08 ~ 2020/10)はチームメンバーとして、後半(2020/11 ~ 現在)は開発リーダーとして参画
   - 後半はVNの会社に開発協力を仰いだため、画面開発と共に、VNチームのレビュー、開発方針相談など
   - 開発に関しては画面実装、BFF、Redux周りの実装メンテナンス
   - React, Redux, Typescript, Next.js, Express, Storybook, erb
 
-### 受託開発(2020/04~現在)
+### 受託開発(2021/04~2021/09)
 - 新規WebアプリケーションのFE開発
   - FEが一人のため、初期構築から実装方針など含め担当
   - 自社プロダクト開発と並行して担当  
   - Next.js, Typescript, Storybook
 
-
+## 株式会社サマリー(2022/07~現在)
+- 倉庫管理（WMS）開発
+    - React
+    - Storybook
+    - msw
+    - Redux Toolkit
+ 
 ## 副業（2020/08~不定期）
 - 結婚式招待状サービスの開発
   - 招待状フォームの作成
